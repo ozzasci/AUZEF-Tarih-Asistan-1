@@ -1,0 +1,7 @@
+{
+  "name": "AUZEF Tarih Asistanı",
+  "description": "AUZEF Tarih Bölümü öğrencileri için PDF ders notu işleme, sesli dinleme, özet çıkarma ve sınav hazırlık asistanı.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
